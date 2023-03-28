@@ -1,9 +1,9 @@
 # PyQt5-Math
-Project #5 with Python - PyQt5. Practica tu rapidez mental de operaciones basicas de la aritmetica.
+Project #5 with Python - PyQt5. Practice your mental speed of basic arithmetic operations.
 
-Aplicacion de usuario en PyQt5 con Operaciones basicas de la aritmetica
-para mejorar en la veloccidad de respuesta de operaciones basicas como 
-sumas, restas y multiplicaciones.
+User application in PyQt5 with basic arithmetic operations
+to improve the response speed of basic operations such as
+addition, subtraction and multiplication.
 
 **Image**
 
